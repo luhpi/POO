@@ -1,0 +1,503 @@
+; Registro Hospitalar de Cancer 
+;Municipios
+500  7  L
+      1  4300034 ACEGUA   RS                                4300034
+      2  4300059 AGUA SANTA   RS                            4300059
+      3  4300109 AGUDO   RS                                 4300109
+      4  4300208 AJURICABA   RS                             4300208
+      5  4300307 ALECRIM   RS                               4300307
+      6  4300406 ALEGRETE   RS                              4300406
+      7  4300455 ALEGRIA   RS                               4300455
+      8  4300471 ALMIRANTE TAMANDARE DO SUL   RS            4300471
+      9  4300505 ALPESTRE   RS                              4300505
+     10  4300554 ALTO ALEGRE   RS                           4300554
+     11  4300570 ALTO FELIZ   RS                            4300570
+     12  4300604 ALVORADA   RS                              4300604
+     13  4300638 AMARAL FERRADOR   RS                       4300638
+     14  4300646 AMETISTA DO SUL   RS                       4300646
+     15  4300661 ANDRE DA ROCHA   RS                        4300661
+     16  4300703 ANTA GORDA   RS                            4300703
+     17  4300802 ANTONIO PRADO   RS                         4300802
+     18  4300851 ARAMBARE   RS                              4300851
+     19  4300877 ARARICA   RS                               4300877
+     20  4300901 ARATIBA   RS                               4300901
+     21  4301008 ARROIO DO MEIO   RS                        4301008
+     22  4301057 ARROIO DO SAL   RS                         4301057
+     23  4301073 ARROIO DO PADRE   RS                       4301073
+     24  4301107 ARROIO DOS RATOS   RS                      4301107
+     25  4301206 ARROIO DO TIGRE   RS                       4301206
+     26  4301305 ARROIO GRANDE   RS                         4301305
+     27  4301404 ARVOREZINHA   RS                           4301404
+     28  4301503 AUGUSTO PESTANA   RS                       4301503
+     29  4301552 AUREA   RS                                 4301552
+     30  4301602 BAGE   RS                                  4301602
+     31  4301636 BALNEARIO PINHAL   RS                      4301636
+     32  4301651 BARAO   RS                                 4301651
+     33  4301701 BARAO DE COTEGIPE   RS                     4301701
+     34  4301750 BARAO DO TRIUNFO   RS                      4301750
+     35  4301800 BARRACAO   RS                              4301800
+     36  4301859 BARRA DO GUARITA   RS                      4301859
+     37  4301875 BARRA DO QUARAI   RS                       4301875
+     38  4301909 BARRA DO RIBEIRO   RS                      4301909
+     39  4301925 BARRA DO RIO AZUL   RS                     4301925
+     40  4301958 BARRA FUNDA   RS                           4301958
+     41  4302006 BARROS CASSAL   RS                         4302006
+     42  4302055 BENJAMIN CONSTANT DO SUL   RS              4302055
+     43  4302105 BENTO GONCALVES   RS                       4302105
+     44  4302154 BOA VISTA DAS MISSOES   RS                 4302154
+     45  4302204 BOA VISTA DO BURICA   RS                   4302204
+     46  4302220 BOA VISTA DO CADEADO   RS                  4302220
+     47  4302238 BOA VISTA DI INCRA   RS                    4302238
+     48  4302253 BOA VISTA DO SUL   RS                      4302253
+     49  4302303 BOM JESUS   RS                             4302303
+     50  4302352 BOM PRINCIPIO   RS                         4302352
+     51  4302378 BOM PROGRESSO   RS                         4302378
+     52  4302402 BOM RETIRO DO SUL   RS                     4302402
+     53  4302451 BOQUEIRAO DO LEAO   RS                     4302451
+     54  4302501 BOSSOROCA   RS                             4302501
+     55  4302584 BOZANO   RS                                4302584
+     56  4302600 BRAGA   RS                                 4302600
+     57  4302659 BROCHIER   RS                              4302659
+     58  4302709 BUTIA   RS                                 4302709
+     59  4302808 CACAPAVA DO SUL   RS                       4302808
+     60  4302907 CACEQUI   RS                               4302907
+     61  4303004 CACHOEIRA DO SUL   RS                      4303004
+     62  4303103 CACHOEIRINHA   RS                          4303103
+     63  4303202 CACIQUE DOBLE   RS                         4303202
+     64  4303301 CAIBATE   RS                               4303301
+     65  4303400 CAICARA   RS                               4303400
+     66  4303509 CAMAQUA   RS                               4303509
+     67  4303558 CAMARGO   RS                               4303558
+     68  4303608 CAMBARA DO SUL   RS                        4303608
+     69  4303673 CAMPESTRE DA SERRA   RS                    4303673
+     70  4303707 CAMPINA DAS MISSOES   RS                   4303707
+     71  4303806 CAMPINAS DO SUL   RS                       4303806
+     72  4303905 CAMPO BOM   RS                             4303905
+     73  4304002 CAMPO NOVO   RS                            4304002
+     74  4304101 CAMPOS BORGES   RS                         4304101
+     75  4304200 CANDELARIA   RS                            4304200
+     76  4304309 CANDIDO GODOI   RS                         4304309
+     77  4304358 CANDIOTA   RS                              4304358
+     78  4304408 CANELA   RS                                4304408
+     79  4304507 CANGUCU   RS                               4304507
+     80  4304606 CANOAS   RS                                4304606
+     81  4304614 CANUDOS DO VALE   RS                       4304614
+     82  4304622 CAPAO BONITO DO SUL   RS                   4304622
+     83  4304630 CAPAO DA CANOA   RS                        4304630
+     84  4304655 CAPAO DO CIPO   RS                         4304655
+     85  4304663 CAPAO DO LEAO   RS                         4304663
+     86  4304671 CAPIVARI DO SUL   RS                       4304671
+     87  4304689 CAPELA DE SANTANA   RS                     4304689
+     88  4304697 CAPITAO   RS                               4304697
+     89  4304705 CARAZINHO   RS                             4304705
+     90  4304713 CARAA   RS                                 4304713
+     91  4304804 CARLOS BARBOSA   RS                        4304804
+     92  4304853 CARLOS GOMES   RS                          4304853
+     93  4304903 CASCA   RS                                 4304903
+     94  4304952 CASEIROS   RS                              4304952
+     95  4305009 CATUIPE   RS                               4305009
+     96  4305108 CAXIAS DO SUL   RS                         4305108
+     97  4305116 CENTENARIO   RS                            4305116
+     98  4305124 CERRITO   RS                               4305124
+     99  4305132 CERRO BRANCO   RS                          4305132
+    100  4305157 CERRO GRANDE   RS                          4305157
+    101  4305173 CERRO GRANDE DO SUL   RS                   4305173
+    102  4305207 CERRO LARGO   RS                           4305207
+    103  4305306 CHAPADA   RS                               4305306
+    104  4305355 CHARQUEADAS   RS                           4305355
+    105  4305371 CHARRUA   RS                               4305371
+    106  4305405 CHIAPETA   RS                              4305405
+    107  4305439 CHUI   RS                                  4305439
+    108  4305447 CHUVISCA   RS                              4305447
+    109  4305454 CIDREIRA   RS                              4305454
+    110  4305504 CIRIACO   RS                               4305504
+    111  4305587 COLINAS   RS                               4305587
+    112  4305603 COLORADO   RS                              4305603
+    113  4305702 CONDOR   RS                                4305702
+    114  4305801 CONSTANTINA   RS                           4305801
+    115  4305835 COQUEIRO BAIXO   RS                        4305835
+    116  4305850 COQUEIROS DO SUL   RS                      4305850
+    117  4305871 CORONEL BARROS   RS                        4305871
+    118  4305900 CORONEL BICACO   RS                        4305900
+    119  4305934 CORONEL PILAR   RS                         4305934
+    120  4305959 COTIPORA   RS                              4305959
+    121  4305975 COXILHA   RS                               4305975
+    122  4306007 CRISSIUMAL   RS                            4306007
+    123  4306056 CRISTAL   RS                               4306056
+    124  4306072 CRISTAL DO SUL   RS                        4306072
+    125  4306106 CRUZ ALTA   RS                             4306106
+    126  4306130 CRUZALTENSE   RS                           4306130
+    127  4306205 CRUZEIRO DO SUL   RS                       4306205
+    128  4306304 DAVID CANABARRO   RS                       4306304
+    129  4306320 DERRUBADAS   RS                            4306320
+    130  4306353 DEZESSEIS DE NOVEMBRO   RS                 4306353
+    131  4306379 DILERMANDO DE AGUIAR   RS                  4306379
+    132  4306403 DOIS IRMAOS   RS                           4306403
+    133  4306429 DOIS IRMAOS DAS MISSOES   RS               4306429
+    134  4306452 DOIS LAJEADOS   RS                         4306452
+    135  4306502 DOM FELICIANO   RS                         4306502
+    136  4306551 DOM PEDRO DE ALCANTARA   RS                4306551
+    137  4306601 DOM PEDRITO   RS                           4306601
+    138  4306700 DONA FRANCISCA   RS                        4306700
+    139  4306734 DOUTOR MAURICIO CARDOSO   RS               4306734
+    140  4306759 DOUTOR RICARDO   RS                        4306759
+    141  4306767 ELDORADO DO SUL   RS                       4306767
+    142  4306809 ENCANTADO   RS                             4306809
+    143  4306908 ENCRUZILHADA DO SUL   RS                   4306908
+    144  4306924 ENGENHO VELHO   RS                         4306924
+    145  4306932 ENTRE IJUIS   RS                           4306932
+    146  4306957 ENTRE RIOS DO SUL   RS                     4306957
+    147  4306973 EREBANGO   RS                              4306973
+    148  4307005 ERECHIM   RS                               4307005
+    149  4307054 ERNESTINA   RS                             4307054
+    150  4307104 HERVAL   RS                                4307104
+    151  4307203 ERVAL GRANDE   RS                          4307203
+    152  4307302 ERVAL SECO   RS                            4307302
+    153  4307401 ESMERALDA   RS                             4307401
+    154  4307450 ESPERANCA DO SUL   RS                      4307450
+    155  4307500 ESPUMOSO   RS                              4307500
+    156  4307559 ESTACAO   RS                               4307559
+    157  4307609 ESTANCIA VELHA   RS                        4307609
+    158  4307708 ESTEIO   RS                                4307708
+    159  4307807 ESTRELA   RS                               4307807
+    160  4307815 ESTRELA VELHA   RS                         4307815
+    161  4307831 EUGENIO DE CASTRO   RS                     4307831
+    162  4307864 FAGUNDES VARELA   RS                       4307864
+    163  4307906 FARROUPILHA   RS                           4307906
+    164  4308003 FAXINAL DO SOTURNO   RS                    4308003
+    165  4308052 FAXINALZINHO   RS                          4308052
+    166  4308078 FAZENDA VILANOVA   RS                      4308078
+    167  4308102 FELIZ   RS                                 4308102
+    168  4308201 FLORES DA CUNHA   RS                       4308201
+    169  4308250 FLORIANO PEIXOTO   RS                      4308250
+    170  4308300 FONTOURA XAVIER   RS                       4308300
+    171  4308409 FORMIGUEIRO   RS                           4308409
+    172  4308433 FORQUETINHA   RS                           4308433
+    173  4308458 FORTALEZA DOS VALOS   RS                   4308458
+    174  4308508 FREDERICO WESTPHALEN   RS                  4308508
+    175  4308607 GARIBALDI   RS                             4308607
+    176  4308656 GARRUCHOS   RS                             4308656
+    177  4308706 GAURAMA   RS                               4308706
+    178  4308805 GENERAL CAMARA   RS                        4308805
+    179  4308854 GENTIL   RS                                4308854
+    180  4308904 GETULIO VARGAS   RS                        4308904
+    181  4309001 GIRUA   RS                                 4309001
+    182  4309050 GLORINHA   RS                              4309050
+    183  4309100 GRAMADO   RS                               4309100
+    184  4309126 GRAMADO DOS LOUREIROS   RS                 4309126
+    185  4309159 GRAMADO XAVIER   RS                        4309159
+    186  4309209 GRAVATAI   RS                              4309209
+    187  4309258 GUABIJU   RS                               4309258
+    188  4309308 GUAIBA   RS                                4309308
+    189  4309407 GUAPORE   RS                               4309407
+    190  4309506 GUARANI DAS MISSOES   RS                   4309506
+    191  4309555 HARMONIA   RS                              4309555
+    192  4309571 HERVEIRAS   RS                             4309571
+    193  4309605 HORIZONTINA   RS                           4309605
+    194  4309654 HULHA NEGRA   RS                           4309654
+    195  4309704 HUMAITA   RS                               4309704
+    196  4309753 IBARAMA   RS                               4309753
+    197  4309803 IBIACA   RS                                4309803
+    198  4309902 IBIRAIARAS   RS                            4309902
+    199  4309951 IBIRAPUITA   RS                            4309951
+    200  4310009 IBIRUBA   RS                               4310009
+    201  4310108 IGREJINHA   RS                             4310108
+    202  4310207 IJUI   RS                                  4310207
+    203  4310306 ILOPOLIS   RS                              4310306
+    204  4310330 IMBE   RS                                  4310330
+    205  4310363 IMIGRANTE   RS                             4310363
+    206  4310405 INDEPENDENCIA   RS                         4310405
+    207  4310413 INHACORA   RS                              4310413
+    208  4310439 IPE   RS                                   4310439
+    209  4310462 IPIRANGA DO SUL   RS                       4310462
+    210  4310504 IRAI   RS                                  4310504
+    211  4310538 ITAARA   RS                                4310538
+    212  4310553 ITACURUBI   RS                             4310553
+    213  4310579 ITAPUCA   RS                               4310579
+    214  4310603 ITAQUI   RS                                4310603
+    215  4310652 ITATI   RS                                 4310652
+    216  4310702 ITATIBA DO SUL   RS                        4310702
+    217  4310751 IVORA   RS                                 4310751
+    218  4310801 IVOTI   RS                                 4310801
+    219  4310850 JABOTICABA   RS                            4310850
+    220  4310876 JACUIZINHO   RS                            4310876
+    221  4310900 JACUTINGA   RS                             4310900
+    222  4311007 JAGUARAO   RS                              4311007
+    223  4311106 JAGUARI   RS                               4311106
+    224  4311122 JAQUIRANA   RS                             4311122
+    225  4311130 JARI   RS                                  4311130
+    226  4311155 JOIA   RS                                  4311155
+    227  4311205 JULIO DE CASTILHOS   RS                    4311205
+    228  4311239 LAGOA BONITA DO SUL   RS                   4311239
+    229  4311254 LAGOAO   RS                                4311254
+    230  4311270 LAGOA DOS TRES CANTOS   RS                 4311270
+    231  4311304 LAGOA VERMELHA   RS                        4311304
+    232  4311403 LAJEADO   RS                               4311403
+    233  4311429 LAJEADO DO BUGRE   RS                      4311429
+    234  4311502 LAVRAS DO SUL   RS                         4311502
+    235  4311601 LIBERATO SALZANO   RS                      4311601
+    236  4311627 LINDOLFO COLLOR   RS                       4311627
+    237  4311643 LINHA NOVA   RS                            4311643
+    238  4311700 MACHADINHO   RS                            4311700
+    239  4311718 MACAMBARA   RS                             4311718
+    240  4311734 MAMPITUBA   RS                             4311734
+    241  4311759 MANOEL VIANA   RS                          4311759
+    242  4311775 MAQUINE   RS                               4311775
+    243  4311791 MARATA   RS                                4311791
+    244  4311809 MARAU   RS                                 4311809
+    245  4311908 MARCELINO RAMOS   RS                       4311908
+    246  4311981 MARIANA PIMENTEL   RS                      4311981
+    247  4312005 MARIANO MORO   RS                          4312005
+    248  4312054 MARQUES DE SOUZA   RS                      4312054
+    249  4312104 MATA   RS                                  4312104
+    250  4312138 MATO CASTELHANO   RS                       4312138
+    251  4312153 MATO LEITAO   RS                           4312153
+    252  4312179 MATO QUEIMADO   RS                         4312179
+    253  4312203 MAXIMILIANO DE ALMEIDA   RS                4312203
+    254  4312252 MINAS DO LEAO   RS                         4312252
+    255  4312302 MIRAGUAI   RS                              4312302
+    256  4312351 MONTAURI   RS                              4312351
+    257  4312377 MONTE ALEGRE DOS CAMPOS   RS               4312377
+    258  4312385 MONTE BELO DO SUL   RS                     4312385
+    259  4312401 MONTENEGRO   RS                            4312401
+    260  4312427 MORMACO   RS                               4312427
+    261  4312443 MORRINHOS DO SUL   RS                      4312443
+    262  4312450 MORRO REDONDO   RS                         4312450
+    263  4312476 MORRO REUTER   RS                          4312476
+    264  4312500 MOSTARDAS   RS                             4312500
+    265  4312609 MUCUM   RS                                 4312609
+    266  4312617 MUITOS CAPOES   RS                         4312617
+    267  4312625 MULITERNO   RS                             4312625
+    268  4312658 NAO ME TOQUE   RS                          4312658
+    269  4312674 NICOLAU VERGUEIRO   RS                     4312674
+    270  4312708 NONOAI   RS                                4312708
+    271  4312757 NOVA ALVORADA   RS                         4312757
+    272  4312807 NOVA ARACA   RS                            4312807
+    273  4312906 NOVA BASSANO   RS                          4312906
+    274  4312955 NOVA BOA VISTA   RS                        4312955
+    275  4313003 NOVA BRESCIA   RS                          4313003
+    276  4313011 NOVA CANDELARIA   RS                       4313011
+    277  4313037 NOVA ESPERANCA DO SUL   RS                 4313037
+    278  4313060 NOVA HARTZ   RS                            4313060
+    279  4313086 NOVA PADUA   RS                            4313086
+    280  4313102 NOVA PALMA   RS                            4313102
+    281  4313201 NOVA PETROPOLIS   RS                       4313201
+    282  4313300 NOVA PRATA   RS                            4313300
+    283  4313334 NOVA RAMADA   RS                           4313334
+    284  4313359 NOVA ROMA DO SUL   RS                      4313359
+    285  4313375 NOVA SANTA RITA   RS                       4313375
+    286  4313391 NOVO CABRAIS   RS                          4313391
+    287  4313409 NOVO HAMBURGO   RS                         4313409
+    288  4313425 NOVO MACHADO   RS                          4313425
+    289  4313441 NOVO TIRADENTES   RS                       4313441
+    290  4313466 NOVO XINGU   RS                            4313466
+    291  4313490 NOVO BARREIRO   RS                         4313490
+    292  4313508 OSORIO   RS                                4313508
+    293  4313607 PAIM FILHO   RS                            4313607
+    294  4313656 PALMARES DO SUL   RS                       4313656
+    295  4313706 PALMEIRA DAS MISSOES   RS                  4313706
+    296  4313805 PALMITINHO   RS                            4313805
+    297  4313904 PANAMBI   RS                               4313904
+    298  4313953 PANTANO GRANDE   RS                        4313953
+    299  4314001 PARAI   RS                                 4314001
+    300  4314027 PARAISO DO SUL   RS                        4314027
+    301  4314035 PARECI NOVO   RS                           4314035
+    302  4314050 PAROBE   RS                                4314050
+    303  4314068 PASSA SETE   RS                            4314068
+    304  4314076 PASSO DO SOBRADO   RS                      4314076
+    305  4314100 PASSO FUNDO   RS                           4314100
+    306  4314134 PAULO BENTO   RS                           4314134
+    307  4314159 PAVERAMA   RS                              4314159
+    308  4314175 PEDRAS ALTAS   RS                          4314175
+    309  4314209 PEDRO OSORIO   RS                          4314209
+    310  4314308 PEJUCARA   RS                              4314308
+    311  4314407 PELOTAS   RS                               4314407
+    312  4314423 PICADA CAFE   RS                           4314423
+    313  4314456 PINHAL   RS                                4314456
+    314  4314464 PINHAL DA SERRA   RS                       4314464
+    315  4314472 PINHAL GRANDE   RS                         4314472
+    316  4314498 PINHEIRINHO DO VALE   RS                   4314498
+    317  4314506 PINHEIRO MACHADO   RS                      4314506
+    318  4314530 PINTO BANDEIRA   RS                        4314530
+    319  4314555 PIRAPO   RS                                4314555
+    320  4314605 PIRATINI   RS                              4314605
+    321  4314704 PLANALTO   RS                              4314704
+    322  4314753 POCO DAS ANTAS   RS                        4314753
+    323  4314779 PONTAO   RS                                4314779
+    324  4314787 PONTE PRETA   RS                           4314787
+    325  4314803 PORTAO   RS                                4314803
+    326  4314902 PORTO ALEGRE   RS                          4314902
+    327  4315008 PORTO LUCENA   RS                          4315008
+    328  4315057 PORTO MAUA   RS                            4315057
+    329  4315073 PORTO VERA CRUZ   RS                       4315073
+    330  4315107 PORTO XAVIER   RS                          4315107
+    331  4315131 POUSO NOVO   RS                            4315131
+    332  4315149 PRESIDENTE LUCENA   RS                     4315149
+    333  4315156 PROGRESSO   RS                             4315156
+    334  4315172 PROTASIO ALVES   RS                        4315172
+    335  4315206 PUTINGA   RS                               4315206
+    336  4315305 QUARAI   RS                                4315305
+    337  4315313 QUATRO IRMAOS   RS                         4315313
+    338  4315321 QUEVEDOS   RS                              4315321
+    339  4315354 QUINZE DE NOVEMBRO   RS                    4315354
+    340  4315404 REDENTORA   RS                             4315404
+    341  4315453 RELVADO   RS                               4315453
+    342  4315503 RESTINGA SECA   RS                         4315503
+    343  4315552 RIO DOS INDIOS   RS                        4315552
+    344  4315602 RIO GRANDE   RS                            4315602
+    345  4315701 RIO PARDO   RS                             4315701
+    346  4315750 RIOZINHO   RS                              4315750
+    347  4315800 ROCA SALES   RS                            4315800
+    348  4315909 RODEIO BONITO   RS                         4315909
+    349  4315958 ROLADOR   RS                               4315958
+    350  4316006 ROLANTE   RS                               4316006
+    351  4316105 RONDA ALTA   RS                            4316105
+    352  4316204 RONDINHA   RS                              4316204
+    353  4316303 ROQUE GONZALES   RS                        4316303
+    354  4316402 ROSARIO DO SUL   RS                        4316402
+    355  4316428 SAGRADA FAMILIA   RS                       4316428
+    356  4316436 SALDANHA MARINHO   RS                      4316436
+    357  4316451 SALTO DO JACUI   RS                        4316451
+    358  4316477 SALVADOR DAS MISSOES   RS                  4316477
+    359  4316501 SALVADOR DO SUL   RS                       4316501
+    360  4316600 SANANDUVA   RS                             4316600
+    361  4316709 SANTA BARBARA DO SUL   RS                  4316709
+    362  4316733 SANTA CECILIA DO SUL   RS                  4316733
+    363  4316758 SANTA CLARA DO SUL   RS                    4316758
+    364  4316808 SANTA CRUZ DO SUL   RS                     4316808
+    365  4316907 SANTA MARIA   RS                           4316907
+    366  4316956 SANTA MARIA DO HERVAL   RS                 4316956
+    367  4316972 SANTA MARGARIDA DO SUL   RS                4316972
+    368  4317004 SANTANA DA BOA VISTA   RS                  4317004
+    369  4317103 SANTANA DO LIVRAMENTO   RS                 4317103
+    370  4317202 SANTA ROSA   RS                            4317202
+    371  4317251 SANTA TEREZA   RS                          4317251
+    372  4317301 SANTA VITORIA DO PALMAR   RS               4317301
+    373  4317400 SANTIAGO   RS                              4317400
+    374  4317509 SANTO ANGELO   RS                          4317509
+    375  4317558 SANTO ANTONIO DO PALMA   RS                4317558
+    376  4317608 SANTO ANTONIO DA PATRULHA   RS             4317608
+    377  4317707 SANTO ANTONIO DAS MISSOES   RS             4317707
+    378  4317756 SANTO ANTONIO DO PLANALTO   RS             4317756
+    379  4317806 SANTO AUGUSTO   RS                         4317806
+    380  4317905 SANTO CRISTO   RS                          4317905
+    381  4317954 SANTO EXPEDITO DO SUL   RS                 4317954
+    382  4318002 SAO BORJA   RS                             4318002
+    383  4318051 SAO DOMINGOS DO SUL   RS                   4318051
+    384  4318101 SAO FRANCISCO DE ASSIS   RS                4318101
+    385  4318200 SAO FRANCISCO DE PAULA   RS                4318200
+    386  4318309 SAO GABRIEL   RS                           4318309
+    387  4318408 SAO JERONIMO   RS                          4318408
+    388  4318424 SAO JOAO DA URTIGA   RS                    4318424
+    389  4318432 SAO JOAO DO POLESINE   RS                  4318432
+    390  4318440 SAO JORGE   RS                             4318440
+    391  4318457 SAO JOSE DAS MISSOES   RS                  4318457
+    392  4318465 SAO JOSE DO HERVAL   RS                    4318465
+    393  4318481 SAO JOSE DO HORTENCIO   RS                 4318481
+    394  4318499 SAO JOSE DO INHACORA   RS                  4318499
+    395  4318507 SAO JOSE DO NORTE   RS                     4318507
+    396  4318606 SAO JOSE DO OURO   RS                      4318606
+    397  4318614 SAO JOSE DO SUL   RS                       4318614
+    398  4318622 SAO JOSE DOS AUSENTES   RS                 4318622
+    399  4318705 SAO LEOPOLDO   RS                          4318705
+    400  4318804 SAO LOURENCO DO SUL   RS                   4318804
+    401  4318903 SAO LUIZ GONZAGA   RS                      4318903
+    402  4319000 SAO MARCOS   RS                            4319000
+    403  4319109 SAO MARTINHO   RS                          4319109
+    404  4319125 SAO MARTINHO DA SERRA   RS                 4319125
+    405  4319158 SAO MIGUEL DAS MISSOES   RS                4319158
+    406  4319208 SAO NICOLAU   RS                           4319208
+    407  4319307 SAO PAULO DAS MISSOES   RS                 4319307
+    408  4319356 SAO PEDRO DA SERRA   RS                    4319356
+    409  4319364 SAO PEDRO DAS MISSOES   RS                 4319364
+    410  4319372 SAO PEDRO DO BUTIA   RS                    4319372
+    411  4319406 SAO PEDRO DO SUL   RS                      4319406
+    412  4319505 SAO SEBASTIAO DO CAI   RS                  4319505
+    413  4319604 SAO SEPE   RS                              4319604
+    414  4319703 SAO VALENTIM   RS                          4319703
+    415  4319711 SAO VALENTIM DO SUL   RS                   4319711
+    416  4319737 SAO VALERIO DO SUL   RS                    4319737
+    417  4319752 SAO VENDELINO   RS                         4319752
+    418  4319802 SAO VICENTE DO SUL   RS                    4319802
+    419  4319901 SAPIRANGA   RS                             4319901
+    420  4320008 SAPUCAIA DO SUL   RS                       4320008
+    421  4320107 SARANDI   RS                               4320107
+    422  4320206 SEBERI   RS                                4320206
+    423  4320230 SEDE NOVA   RS                             4320230
+    424  4320263 SEGREDO   RS                               4320263
+    425  4320305 SELBACH   RS                               4320305
+    426  4320321 SENADOR SALGADO FILHO   RS                 4320321
+    427  4320354 SENTINELA DO SUL   RS                      4320354
+    428  4320404 SERAFINA CORREA   RS                       4320404
+    429  4320453 SERIO   RS                                 4320453
+    430  4320503 SERTAO   RS                                4320503
+    431  4320552 SERTAO SANTANA   RS                        4320552
+    432  4320578 SETE DE SETEMBRO   RS                      4320578
+    433  4320602 SEVERIANO DE ALMEIDA   RS                  4320602
+    434  4320651 SILVEIRA MARTINS   RS                      4320651
+    435  4320677 SINIMBU   RS                               4320677
+    436  4320701 SOBRADINHO   RS                            4320701
+    437  4320800 SOLEDADE   RS                              4320800
+    438  4320859 TABAI   RS                                 4320859
+    439  4320909 TAPEJARA   RS                              4320909
+    440  4321006 TAPERA   RS                                4321006
+    441  4321105 TAPES   RS                                 4321105
+    442  4321204 TAQUARA   RS                               4321204
+    443  4321303 TAQUARI   RS                               4321303
+    444  4321329 TAQUARUCU DO SUL   RS                      4321329
+    445  4321352 TAVARES   RS                               4321352
+    446  4321402 TENENTE PORTELA   RS                       4321402
+    447  4321436 TERRA DE AREIA   RS                        4321436
+    448  4321451 TEUTONIA   RS                              4321451
+    449  4321469 TIO HUGO   RS                              4321469
+    450  4321477 TIRADENTES DO SUL   RS                     4321477
+    451  4321493 TOROPI   RS                                4321493
+    452  4321501 TORRES   RS                                4321501
+    453  4321600 TRAMANDAI   RS                             4321600
+    454  4321626 TRAVESSEIRO   RS                           4321626
+    455  4321634 TRES ARROIOS   RS                          4321634
+    456  4321667 TRES CACHOEIRAS   RS                       4321667
+    457  4321709 TRES COROAS   RS                           4321709
+    458  4321808 TRES DE MAIO   RS                          4321808
+    459  4321832 TRES FORQUILHAS   RS                       4321832
+    460  4321857 TRES PALMEIRAS   RS                        4321857
+    461  4321907 TRES PASSOS   RS                           4321907
+    462  4321956 TRINDADE DO SUL   RS                       4321956
+    463  4322004 TRIUNFO   RS                               4322004
+    464  4322103 TUCUNDUVA   RS                             4322103
+    465  4322152 TUNAS   RS                                 4322152
+    466  4322186 TUPANCI DO SUL   RS                        4322186
+    467  4322202 TUPANCIRETA   RS                           4322202
+    468  4322251 TUPANDI   RS                               4322251
+    469  4322301 TUPARENDI   RS                             4322301
+    470  4322327 TURUCU   RS                                4322327
+    471  4322343 UBIRETAMA   RS                             4322343
+    472  4322350 UNIAO DA SERRA   RS                        4322350
+    473  4322376 UNISTALDA   RS                             4322376
+    474  4322400 URUGUAIANA   RS                            4322400
+    475  4322509 VACARIA   RS                               4322509
+    476  4322525 VALE VERDE   RS                            4322525
+    477  4322533 VALE DO SOL   RS                           4322533
+    478  4322541 VALE REAL   RS                             4322541
+    479  4322558 VANINI   RS                                4322558
+    480  4322608 VENANCIO AIRES   RS                        4322608
+    481  4322707 VERA CRUZ   RS                             4322707
+    482  4322806 VERANOPOLIS   RS                           4322806
+    483  4322855 VESPASIANO CORREA   RS                     4322855
+    484  4322905 VIADUTOS   RS                              4322905
+    485  4323002 VIAMAO   RS                                4323002
+    486  4323101 VICENTE DUTRA   RS                         4323101
+    487  4323200 VICTOR GRAEFF   RS                         4323200
+    488  4323309 VILA FLORES   RS                           4323309
+    489  4323358 VILA LANGARO   RS                          4323358
+    490  4323408 VILA MARIA   RS                            4323408
+    491  4323457 VILA NOVA DO SUL   RS                      4323457
+    492  4323507 VISTA ALEGRE   RS                          4323507
+    493  4323606 VISTA ALEGRE DO PRATA   RS                 4323606
+    494  4323705 VISTA GAUCHA   RS                          4323705
+    495  4323754 VITORIA DAS MISSOES   RS                   4323754
+    496  4323770 WESTFALIA   RS                             4323770
+    497  4323804 XANGRI LA   RS                             4323804
+    498  4305876 CORONEL BARROS   RS                        4305876
+    499  4314548 PINTO BANDEIRA   RS                        4314548
+    500  4399999 SEM INFORMACAO   RS                        4399999

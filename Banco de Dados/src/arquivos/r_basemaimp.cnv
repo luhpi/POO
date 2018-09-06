@@ -1,0 +1,12 @@
+; Registro Hospitalar de Cancer
+; BASE MAIS IMPORTANTE PARA DIAGNOSTICO
+
+8 1
+      1  CLINICA                                            1
+      2  PESQUISA CLINICA                                   2
+      3  EXAME POR IMAGEM                                   3
+      4  MARCADORES TUMORAIS                                4
+      5  CITOLOGIA                                          5
+      6  HISTOLOGIA DA METASTASE                            6
+      7  HISTOLOGIA DO TUMOR PRIMARIO                       7
+      8  SEM INFORMACAO                                     0,9
